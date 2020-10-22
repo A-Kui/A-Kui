@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kuiZhang98&show_icons=true&theme=dark)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuiZhang98&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuiZhang98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuiZhang98&layout=compact" />
+  [![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
 </a>
