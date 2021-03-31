@@ -1,9 +1,22 @@
-### Hi there 👋
-
-<!--
-**kuiZhang98/kuiZhang98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kuiZhang98&show_icons=true&theme=vue)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuiZhang98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<！-
+** kuiZhang98 / kuiZhang98 **是一个_special_✨存储库，因为其`README.md`（此文件）出现在您的GitHub个人资料中。
+这里有一些想法可以帮助您入门：
+  currently我目前正在研究...
+  currently我目前正在学习...  
+  looking我正在寻求合作...
+  m我正在寻求有关...的帮助
+  💬问我关于...
+  📫如何联系我：...
+  😄代词：...
+  ⚡有趣的事实：...
+-> 
+  🔭我目前正在研究... <br>
+  currently我目前正在学习... <br>
+  👯我希望在...上进行合作。<br>
+  🤔我正在寻求有关... <br>的帮助
+  💬向我询问... <br>
+  📫如何联系我：... <br>
+  😄代词：... <br>
+  ⚡有趣的事实：... <br>
+！[Anurag的github统计信息]（https://github-readme-stats.vercel.app/api?username=kuiZhang98&show_icons=true&theme=vue）
+[！[Top Langs]（https://github-readme-stats.vercel.app/api/top-langs/?username=kuiZhang98&layout=compact）]（https://github.com/anuraghazra/github-readme-统计信息）
